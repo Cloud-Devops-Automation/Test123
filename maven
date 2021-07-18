@@ -1,0 +1,12 @@
+maven is a build tool for jar, war and ear
+
+we are configuring in jenkins, gitlab, and some other ci/cd tools and we can use on any java platform.
+
+we can use on windows and linux Operating systems.
+
+i will show you it on windows and linux for build war and jar format images/snapshots
+
+
+
+Thanks
+
